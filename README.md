@@ -1,12 +1,12 @@
 # fractol_42
 Fractol project for 42 school
 
-#Inputs :
+# Inputs :
 ./fractol mandelbrot \
 ./fractol julia \
 ./fractol julia 'value x' 'value y'
 
-#Events :
+# Events :
 scroll to zoom-in or out \
 arrows to move into the window \
 O and P to increase or decrease iterations (so resolution) \
